@@ -1,7 +1,7 @@
 # Diego Orellana - CoreCode Bootcamp 🚀
 ## Week 5
 ### Monday Challenges
-- [Time Converter]()
+- [Time Converter](https://github.com/DiegoMGE/core-code-from-scratch-readme-week-5/blob/main/README.md#time-converter)
 - [Compare Distances]()
 ### Tuesday Challenges
 - [Sum of pairs]()
